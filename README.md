@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/saurabhdaware/image/upload/v1594269078/saurabh2019/projects/githubprofile.png" width="700" />
+<img src="https://res.cloudinary.com/saurabhdaware/image/upload/v1594270419/saurabh2019/projects/githubprofile.png"/>
 
 ## Saurabh Daware
 [saurabhdaware.in](https://saurabhdaware.in)
