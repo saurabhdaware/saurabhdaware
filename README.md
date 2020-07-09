@@ -1,4 +1,5 @@
-![](https://res.cloudinary.com/saurabhdaware/image/upload/v1594269078/saurabh2019/projects/githubprofile.png)
+<img src="https://res.cloudinary.com/saurabhdaware/image/upload/v1594269078/saurabh2019/projects/githubprofile.png" width="800" />
+
 ## Saurabh Daware
 [saurabhdaware.in](https://saurabhdaware.in)
 
