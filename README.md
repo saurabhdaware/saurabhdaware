@@ -6,19 +6,4 @@ I lovee open-source! On my GitHub, You will find NPM libraries and other (mostly
 
 When I'm not coding, I love reading about Astronomy and bragging about the things I make on [My Twitter](https://twitter.com/saurabhcodes).
 
-<!-- <a title="Portfolio" href="https://saurabhdaware.in">
-  <img src="https://saurabhdaware.in/assets/images/logo-192.png" alt="Saurabh Daware's Portfolio" width="26" />
-</a>
-&nbsp;
-<a title="DEV.to" href="https://dev.to/saurabhdaware">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Saurabh Daware 🌻's DEV Profile" width="22">
-</a>
-&nbsp;
-<a title="Twitter" href="https://twitter.com/saurabhcodes">
-  <img src="icons/twitter.svg" alt="Saurabh Daware 🌻's Twitter Profile" width="26">
-</a>
-<br/>
-
-<br/> -->
-
 <a title="Portfolio, saurabhdaware.in" href="https://saurabhdaware.in"><img alt="My portfolio, saurabhdaware.in" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/portfoliobutton.png" width="130" /></a> <a title="DEV.to Articles" href="https://dev.to/saurabhdaware"><img alt="My DEV.to Profile" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/articles.png" width="130" /></a> <a title="Twitter Profile" href="https://twitter.com/saurabhcodes"><img alt="MY Twitter Profile" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/twitter.png" width="130" /></a>
