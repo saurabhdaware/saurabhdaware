@@ -2,7 +2,7 @@
 
 ## Saurabh Daware (he/him) 🌻
 
-I lovee open-source! On my GitHub, You will find NPM libraries and other (mostly) JavaScript-based projects. I am currently working on creating a new static-site-generator [@abelljs](https://github.com/abelljs)
+I love open-source! On my GitHub, You will find NPM libraries and other (mostly) JavaScript-based projects. I am currently working on creating a new static-site-generator [@abelljs](https://github.com/abelljs)
 
 When I'm not coding, I love reading about Astronomy and bragging about the things I make on [My Twitter](https://twitter.com/saurabhcodes).
 
