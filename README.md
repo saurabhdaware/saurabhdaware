@@ -2,6 +2,12 @@
 
 ## Saurabh Daware (he/him) 🌻
 
-I lovee open-source! On my GitHub, You will find NPM libraries and other (mostly) JavaScript-based projects. I am currently working on creating a new static-site-generator [@abelljs](https://github.com/abelljs)
+I make silly libraries. 
 
-<a title="Portfolio, saurabhdaware.in" href="https://saurabhdaware.in"><img alt="My portfolio, saurabhdaware.in" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/portfoliobutton.png" width="130" /></a> <a title="Twitter Profile" href="https://twitter.com/saurabhdawaree"><img alt="MY Twitter Profile" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/twitter.png" width="130" /></a>
+Currently working on building a new static-site-generator [@abelljs](https://github.com/abelljs)
+
+### Find me @
+
+- [🌐 saurabhdaware.in](https://saurabhdaware.in/)
+- [🧑🏻‍💻 Resume](https://saurabhdaware.in/resume)
+- [🦋 Bluesky (@saurabhd.bsky.social)](https://bsky.app/profile/saurabhd.bsky.social)
