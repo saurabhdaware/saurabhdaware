@@ -8,6 +8,6 @@ Currently working on building a new static-site-generator [@abelljs](https://git
 
 ### Find me @
 
-- [🌐 saurabhdaware.in](https://saurabhdaware.in/)
+- [🌐 srbh.dev](https://srbh.dev/)
 - [🧑🏻‍💻 Resume](https://saurabhdaware.in/resume)
-- [🦋 Bluesky (@saurabhd.bsky.social)](https://bsky.app/profile/saurabhd.bsky.social)
+- [🦋 Bluesky (@srbh.dev)](https://bsky.app/profile/srbh.dev)
