@@ -1,10 +1,10 @@
-## Saurabh Daware 🌻
+# Saurabh Daware 🌻
 
 I make silly libraries. 
 
 Currently working on building a new static-site-generator [@abelljs](https://github.com/abelljs)
 
-![saurabhdaware's Stats](https://github-readme-stats.vercel.app/api?username=saurabhdaware&theme=graywhite&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&hide_title=true&hide=issues,contribs)
+![saurabhdaware's Stats](https://github-readme-stats.vercel.app/api?username=saurabhdaware&theme=graywhite&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&rank_icon=percentile&hide=issues,contribs)
 
 ### Find me @
 
