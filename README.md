@@ -4,7 +4,7 @@ I make silly libraries.
 
 Currently working on building a new static-site-generator [@abelljs](https://github.com/abelljs)
 
-![saurabhdaware's Stats](https://github-readme-stats.vercel.app/api?username=saurabhdaware&theme=graywhite&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&hide=prs,issues,contribs&show=reviews&hide_title=true)
+![saurabhdaware's Stats](https://github-readme-stats.vercel.app/api?username=saurabhdaware&theme=graywhite&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&hide_title=true&hide=issues,contribs)
 
 ### Find me @
 
