@@ -19,7 +19,7 @@ Currently working on building a new static-site-generator [@abelljs](https://git
 ### Find me @
 
 - [🌐 srbh.dev](https://srbh.dev/)
-- [🧑🏻‍💻 Resume](https://saurabhdaware.in/resume)
+- [🧑🏻‍💻 Resume](https://srbh.dev/resume)
 - [🦋 Bluesky (@srbh.dev)](https://bsky.app/profile/srbh.dev)
 
 
