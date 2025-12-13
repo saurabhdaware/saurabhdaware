@@ -20,7 +20,6 @@ Currently working on building a new static-site-generator [@abelljs](https://git
 
 - [🌐 srbh.dev](https://srbh.dev/)
 - [🧑🏻‍💻 Resume](https://srbh.dev/resume)
-- [🦋 Bluesky (@srbh.dev)](https://bsky.app/profile/srbh.dev)
 
 
 
